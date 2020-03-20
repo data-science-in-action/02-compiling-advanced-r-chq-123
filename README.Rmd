@@ -1,0 +1,18 @@
+---
+title: "The problems during the building process"
+author: "Cheng huiqi"
+date: "2020/3/20"
+output: 
+  pdf_document: 
+    keep_tex: yes
+    latex_engine: xelatex
+---
+
+1.! Undefined control sequence.
+l.1004 ..., and \texttt{dim()} for arrays. \indexc
+                                                  {nrow()} 
+
+错误: Failed to compile 01DataStructures.tex. See https://yihui.name/tinytex/r/#debugging for debugging tips. See 01DataStructures.log for more info.
+停止执行
+
+ I have not sovled this problem 
